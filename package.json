@@ -15,7 +15,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@mojsoski/streams": "^1.0.0"
+    "@mojsoski/streams": "^1.0.1"
   },
   "scripts": {
     "watch": "npx tsc --watch",
