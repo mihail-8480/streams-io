@@ -1,6 +1,6 @@
 {
   "name": "@mojsoski/streams-io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS-like stream support for @mojsoski/streams",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
